@@ -1,15 +1,15 @@
 {
   "name": "app to pick file",
   "description": "pick file",
-  "launch_path": "./index.html",
+  "launch_path": "/pickApplication/",
  "icons": {
-  "16": "/img/mortar-16.png",
-  "48": "/img/mortar-48.png",
-  "128": "/img/mortar-128.png"
+  "16": "/pickApplication/img/mortar-16.png",
+  "48": "/pickApplication/img/mortar-48.png",
+  "128": "/pickApplication/img/mortar-128.png"
 },
   "developer": {
     "name": "Abhishek Potnis, Amod Narvekar, Pratik Patil",
-    "url": "./index.html"
+    "url": "https://github.com/amodnn/pickApplication"
   },
   
   "default_locale": "en"
